@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TestingApp</string>
+    <string name="scroll_text">ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.
+ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.
+ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.
+ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.
+ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.
+ScrollView là một ViewGroup đặc biệt trong Android cho phép bạn hiển thị nội dung vượt quá kích thước màn hình bằng cách cung cấp khả năng cuộn dọc (vertical scrolling). Nói cách khác, khi nội dung bên trong ScrollView lớn hơn vùng hiển thị, người dùng có thể cuộn lên xuống để xem toàn bộ nội dung.
+Đặc điểm chính:
+ScrollView chỉ có thể chứa một view con trực tiếp. Nếu bạn muốn cuộn nhiều view, hãy đặt chúng bên trong một layout khác (như LinearLayout hoặc RelativeLayout) rồi đặt layout đó vào trong ScrollView.
+ScrollView thường được sử dụng để hiển thị văn bản dài, danh sách dài hoặc các nội dung khác không thể hiển thị đầy đủ trên màn hình cùng một lúc.
+
+</string>
+</resources>
